@@ -66,7 +66,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Data Table :</h6>
             <a class="collapse-item" href="daftar_anggota.php">Daftar Anggota</a>
-            <a class="collapse-item" href="absensi.php">Absensi</a>
+            <a class="collapse-item" href="presensi.php">Presensi</a>
             <a class="collapse-item" href="detail_absensi.php">Detail Absensi</a>
             <a class="collapse-item" href="pencarian_absensi.php">Pencarian Absensi</a>
           </div>
@@ -141,8 +141,7 @@
             <!-- Nav Item - User Information -->
             <li class="nav-item dropdown no-arrow">
               <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Admin -> Foto Admin</span>
-                <img class="img-profile rounded-circle" src="https://source.unsplash.com/QAB-WJcbgJk/60x60">
+                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Admin</span>
               </a>
               <!-- Dropdown - User Information -->
               <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
