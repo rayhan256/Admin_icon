@@ -1,9 +1,155 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="T2S3QjoxA34HpN31wxPc">
-    <mxGraphModel>
+    <mxGraphModel dx="1158" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-22" value="Mobile Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="530" width="40.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-23" value="Web Client" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_desktop;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="131.79000000000002" y="380" width="76.92" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-24" target="NBIMBOYDQRV1yRRm-URM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-27" value="API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NBIMBOYDQRV1yRRm-URM-26">
+          <mxGeometry x="0.019" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="25.25" y="350" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-25" target="NBIMBOYDQRV1yRRm-URM-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-25" value="Auth Engine" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="460" width="61.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-30" target="NBIMBOYDQRV1yRRm-URM-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-30" value="HRIS Web Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.028;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140.02668" y="450.06000000000006" as="targetPoint" />
+            <mxPoint x="1030" y="495.1199999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="495" />
+              <mxPoint x="1060" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-31" value="HRIS Mobile API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-32" value="Other Modules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-33" target="NBIMBOYDQRV1yRRm-URM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-33" target="NBIMBOYDQRV1yRRm-URM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-33" target="NBIMBOYDQRV1yRRm-URM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-40" value="Access Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NBIMBOYDQRV1yRRm-URM-39">
+          <mxGeometry x="-0.832" y="-1" relative="1" as="geometry">
+            <mxPoint x="29" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Access Control Check&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#8CC64F;dashed=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="447.5" width="93.13" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-33" target="NBIMBOYDQRV1yRRm-URM-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="590" />
+              <mxPoint x="456" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-36" value="Denied" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NBIMBOYDQRV1yRRm-URM-35">
+          <mxGeometry x="-0.0851" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-41" target="NBIMBOYDQRV1yRRm-URM-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-41" value="Auth DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="340" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-41" target="NBIMBOYDQRV1yRRm-URM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-25" target="NBIMBOYDQRV1yRRm-URM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-45" value="Notification Engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323.13" y="185" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-48" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="448.13" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-49" value="&lt;font color=&quot;#000000&quot;&gt;Cloud Messaging&lt;/font&gt;&lt;br&gt;Firebase" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.firebase;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="NBIMBOYDQRV1yRRm-URM-48">
+          <mxGeometry width="30" height="40" relative="1" as="geometry">
+            <mxPoint x="5" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="160" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-53" target="NBIMBOYDQRV1yRRm-URM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;HRIS &lt;br&gt;DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="405" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-57" value="HRIS Backend&lt;br&gt;(Nodejs)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="393" width="67.38" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="449.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-58" target="NBIMBOYDQRV1yRRm-URM-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-58" target="NBIMBOYDQRV1yRRm-URM-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1257" y="710" />
+              <mxPoint x="170" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-68" value="API Output" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NBIMBOYDQRV1yRRm-URM-67">
+          <mxGeometry x="-0.0429" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="1143.69" y="350" width="226.31" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-62" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Slave DB&lt;br&gt;CBS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1167.38" y="130" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-63" value="CBS API&lt;br&gt;Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#115193;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="130" width="64.75" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBIMBOYDQRV1yRRm-URM-64" target="NBIMBOYDQRV1yRRm-URM-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBIMBOYDQRV1yRRm-URM-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="1143.69" y="90" width="226.31" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
