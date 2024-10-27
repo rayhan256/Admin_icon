@@ -210,10 +210,119 @@
     </mxGraphModel>
   </diagram>
   <diagram id="td9xsxSaRhKXtUwzXs6g" name="Setup DRC Schema">
-    <mxGraphModel dx="714" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-4" target="1qNv9vo8VHYtJir-0oBi-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="111" y="290" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-4" value="Kantor Pusat" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-5" value="Sulung Branch" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-6" value="Melata Branch" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-7" target="1qNv9vo8VHYtJir-0oBi-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="501" y="290" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-7" value="Suja Branch" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-8" value="Pulpis Branch" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-9" target="1qNv9vo8VHYtJir-0oBi-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="290" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-9" value="Sampit Branch" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="130" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-10" target="1qNv9vo8VHYtJir-0oBi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-10" target="1qNv9vo8VHYtJir-0oBi-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-23" value="On Failover" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1qNv9vo8VHYtJir-0oBi-22">
+          <mxGeometry x="-0.5335" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-10" value="Cloud" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.cloud;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-5" target="1qNv9vo8VHYtJir-0oBi-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="241" y="290" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-6" target="1qNv9vo8VHYtJir-0oBi-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="371" y="290" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-8" target="1qNv9vo8VHYtJir-0oBi-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="631" y="290" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-17" target="1qNv9vo8VHYtJir-0oBi-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-17" value="Operational Server" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="185" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-18" target="1qNv9vo8VHYtJir-0oBi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-18" value="Backup Server" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="555" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-25" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="269" y="715" width="64" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-26" value="SSD" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/SSD.svg;" vertex="1" parent="1">
+          <mxGeometry x="378" y="730" width="55" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-27" value="NAS" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.nas_backup;" vertex="1" parent="1">
+          <mxGeometry x="473" y="722.5" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=link;dashed=1;" edge="1" parent="1" source="1qNv9vo8VHYtJir-0oBi-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410.66666666666674" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qNv9vo8VHYtJir-0oBi-28" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="680" width="338" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
